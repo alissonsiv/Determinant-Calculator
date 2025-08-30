@@ -1,8 +1,6 @@
-# Projeto: Determinant-Calculator
+# Determinant Calculator
 
-## Descrição
-
-Este projeto em C implementa dois métodos numéricos para o cálculo do determinante de matrizes quadradas reais:
+Este projeto implementa dois métodos numéricos para o cálculo do determinante de matrizes quadradas reais:
 
 - **Expansão de Laplace**: método recursivo baseado na cofactoração da matriz.
 - **Eliminação de Gauss**: método eficiente baseado na triangularização da matriz.
@@ -30,11 +28,6 @@ O programa realiza o cálculo de determinantes a partir de matrizes armazenadas 
    ```
 4. Siga as instruções no terminal para selecionar o método e a matriz desejada.
 5. O programa exibirá o resultado e perguntará se deseja continuar.
-
-## Tecnologias Utilizadas
-
-- Linguagem C (padrão C99)
-- Bibliotecas: `stdio.h`, `stdlib.h`, `time.h`
 
 ## Instalação e Execução
 
